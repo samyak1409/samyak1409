@@ -1,10 +1,13 @@
-Hi 👋 My name is Samyak Jain
+Hi <img src="Waving Hand.gif" width="32px"> My name is Samyak Jain
 ============================
 
 Software Developer
 ------------------
 
-I'm a tech enthusiast who loves to write clean code! I'm currently learning how to engineer the softwares to run more efficiently, yes, DSA! My greatest achievement: https://github.com/samyak1409/Minesweeper-for-PC (A full-fledged desktop application I developed from scratch using pure Python!) I love playing Badminton in my free time.
+I'm a tech enthusiast who loves to write clean code! 
+I'm currently learning how to engineer the softwares to run more efficiently, yes, DSA! 
+My greatest achievement: [Minesweeper-for-PC](https://github.com/samyak1409/Minesweeper-for-PC) (A full-fledged desktop application I developed from scratch using pure Python!) 
+I love playing Badminton in my free time.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [samyak1409.github.io](http://samyak1409.github.io)
