@@ -1,4 +1,4 @@
-Hi <img src="Waving Hand.gif" width="32px"> My name is Samyak Jain
+Hi <img src="Waving Hand.gif" width="32"> My name is Samyak Jain
 ============================
 
 Software Developer
