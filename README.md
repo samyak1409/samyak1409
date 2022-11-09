@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 I'm a tech enthusiast who loves to write clean code! 
-I'm currently learning how to engineer the softwares to run more efficiently, yes, DSA! 
+I'm currently learning how to write code that run more efficiently, yes, DSA!
 My greatest achievement: [Minesweeper-for-PC](https://github.com/samyak1409/Minesweeper-for-PC) (A full-fledged desktop application I developed from scratch using pure Python!) 
 I love playing Badminton in my free time.
 
