@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samyak Jain
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"> My name is Samyak Jain
 ===================================================================================================================================
 
 Software Engineer
@@ -52,3 +52,6 @@ src="https://img.shields.io/github/followers/samyak1409?logo=github&style=for-th
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/samyak1409"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+<!-- Source: https://www.profileme.dev -->
