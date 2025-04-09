@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=samyak1409&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
-## 👋 About Me
+## <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="32"> About Me
 Hi! I'm **Samyak Jain**, a **Software Engineer** passionate about problem-solving, algorithms, and building efficient applications.
 
 ## 🔗 Links
