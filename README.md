@@ -6,7 +6,7 @@
 </p>
 
 ## <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="32"> About Me
-Hi! I'm **Samyak Jain**, a **Software Engineer** passionate about problem-solving, algorithms, and building efficient applications.
+Hi! I'm **Samyak Jain**, a **Software Engineer** passionate about building efficient and clean backend systems.
 
 ## 🔗 Links
 - 📄 **[Resume](https://drive.google.com/file/d/1UHCHQsTe7jQk9BSKmZElJ0fucD8wq0Od)**
